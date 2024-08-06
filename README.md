@@ -3,7 +3,7 @@
 <h1 align="center"> 
     <br /> 
     <!-- TITLE -->
-    arXplore
+    
 
 </h1>
 <p align="center">  
